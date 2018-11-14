@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Goland
+Exec=/opt/GoLand-2018.1.4/bin/goland.sh
+Icon=/opt/GoLand-2018.1.4/bin/goland.png
+Type=Application
+Categories=Appliction;Development;
+Encoding=UTF-8
+Version=2018.1.4
